@@ -1,6 +1,6 @@
-# is-camera-on [![Build Status](https://travis-ci.org/sindresorhus/node-is-camera-on.svg?branch=master)](https://travis-ci.org/sindresorhus/node-is-camera-on)
+# Busyness
 
-> Check if the built-in Mac camera is on
+> Check if the external webcam on Mac is on and if I am on a call
 
 
 ## Purpose
